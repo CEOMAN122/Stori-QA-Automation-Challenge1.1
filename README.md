@@ -38,10 +38,7 @@ Contribuciones
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna sugerencia de mejora, por favor abre un issue en este repositorio.
 
 Licencia
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
-
-Información adicional
-Para obtener más detalles sobre el proyecto, consulta la documentación en README.md (este archivo) y el código fuente en el repositorio PruebaManuel.
+Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información
 
 Autor: Manuel Fernando Guiza Cubides    
 Fecha: -    22-05-2023
